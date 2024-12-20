@@ -44,8 +44,7 @@ I'm an aspiring data scientist and software developer from India, passionate abo
 
 ### 📫 **Connect with Me**  
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"></a>  
+  <a href="www.linkedin.com/in/surendhan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" alt="Twitter"></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram"></a>  
 </div>
