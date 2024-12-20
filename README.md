@@ -5,7 +5,7 @@ I'm an aspiring data scientist and software developer from India, passionate abo
 ---
 
 ### 🛠️ **Tech Stack**  
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
   <img src="https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=flat" alt="SQL">
   <img src="https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat" alt="Snowflake">
@@ -24,7 +24,7 @@ I'm an aspiring data scientist and software developer from India, passionate abo
 ---
 
 ### 🛠️ **Tools & Technologies**  
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter Notebooks">
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=white&style=flat" alt="Google Colab">
@@ -33,12 +33,17 @@ I'm an aspiring data scientist and software developer from India, passionate abo
 ---
 
 ### 📈 **GitHub Stats**  
-Top Langs | Surendhan's GitHub Stats | Streak Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surendhan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Surendhan GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surendhan&layout=compact&theme=radical" alt="Surendhan Top Languages">
+</p>
 
 ---
 
 ### 📫 **Connect with Me**  
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"></a>  
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" alt="Twitter"></a>  
@@ -46,3 +51,5 @@ Top Langs | Surendhan's GitHub Stats | Streak Stats
 </div>
 
 Feel free to reach out if you'd like to collaborate on projects or explore ideas together!  
+
+---
