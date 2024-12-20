@@ -1,5 +1,4 @@
 
-
 # **Hi there, I'm Surendhan! 👋**  
 I'm an aspiring data scientist and software developer from India, passionate about solving real-world challenges with innovative technologies. I specialize in data analytics, full-stack development, and machine learning, constantly pushing boundaries to grow my expertise.  
 
@@ -39,9 +38,11 @@ Top Langs | Surendhan's GitHub Stats | Streak Stats
 ---
 
 ### 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](#)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](#)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](#)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](#)  
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" alt="Twitter"></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat" alt="Instagram"></a>  
+</div>
 
 Feel free to reach out if you'd like to collaborate on projects or explore ideas together!  
